@@ -1,0 +1,28 @@
+{
+  "sub_heading": "Project",
+  "heading": "Tokenfab",
+  "excerpt": "Tek tıkla birden fazla blokzincirine ulaşmak için Tokenfab'a katılın. Yüksek değerli varlıklarınızı güvenle satmak için ideal platform.",
+  "contentData": [
+    {
+      "id": 1,
+      "icon": "fa-brands fa-discord",
+      "featured": "",
+      "title": "Kimliğini Doğrula",
+      "content": "Kimlik doğrulama sistemi sayesinde yatırımlarınız emin ellerde."
+    },
+    {
+      "id": 2,
+      "icon": "fa-brands fa-hotjar",
+      "featured": "featured",
+      "title": "Cüzdanı Doğrula",
+      "content": "Cüzdanınızı doğrulayarak tek tıkla yatırıma başlayın."
+    },
+    {
+      "id": 3,
+      "icon": "fa-solid fa-rocket",
+      "featured": "",
+      "title": "Hisse Toplamaya Başlayın",
+      "content": "Tek tıkla hızlı ve güvenli bir şekilde yatırımlarınızı tamamlayın."
+    }
+  ]
+}
