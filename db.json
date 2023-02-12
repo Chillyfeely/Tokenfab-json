@@ -29,36 +29,36 @@
   ]
     },
     "work": {
-        "sub_heading": "How It Works",
-        "heading": "How To Participate",
+        "sub_heading": "Nasıl Çalışıyor",
+        "heading": "Nasıl Katılabilirsiniz?",
         "workData": [
             {
                 "id": 1,
                 "icon": "icons icon-drawer text-effect",
-                "title": "Submit KYC",
-                "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores non provident."
+                "title": "Kimliğinizi Doğrulayın",
+                "content": "Bu adımı hem sizi hem de diğer kullanıcılarımızı korumak için atıyoruz."
             },
             {
                 "id": 2,
                 "icon": "icons icon-wallet text-effect",
-                "title": "Verify Wallet",
-                "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quasi architecto."
+                "title": "Cüzdanı Doğrula",
+                "content": "Cüzdanınızı Tokenfab'a bağlayarak hesabınızı işlem yapmaya hazır hale getirin."
             },
             {
                 "id": 3,
                 "icon": "icons icon-fire text-effect",
-                "title": "Start Staking",
-                "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas."
+                "title": "Hisse Toplamaya Başlayın",
+                "content": "Her şey hazır artık yatırım yapmaya başlayabilirsiniz!"
             }
         ]
     },
     "cta": {
-        "sub_heading": "How It Works",
-        "heading": "How To Participate",
+        "sub_heading": "Nasıl Çalışıyor",
+        "heading": "Nasıl Katılabilirsiniz?",
         "img": "/img/cta_thumb.png",
-        "title": "Apply for IGO",
-        "content": "Get access to huge set of tools to seamlessly handle your game's integration with blockchain.",
-        "btn": "Apply Now",
+        "title": "Varlıklarınızı Tokenfab'da satın",
+        "content": "Tokenfaba satıcı olarak üye olarak sayısız olanaklardan yararlanıp varlıklarınızı güvenli ve hızlı bir şekilde satın.",
+        "btn": "Üye ol",
         "btnIcon": "icon-rocket mr-2"
     },
     "staking": {
